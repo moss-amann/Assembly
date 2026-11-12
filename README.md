@@ -4,3 +4,5 @@
   <li>Assembling</li>
   <li>Linking</li>
 </ul>
+
+<p>These programs are written in C.</p>
